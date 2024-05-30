@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25d0bab6-9866-49a6-9441-0e1a92624ae6" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/YgdLib.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/command/provider/IntegerArgumentProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/command/provider/PlayerArgumentProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/command/provider/StringArgumentProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/exception/BukkitException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/ColorExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/ComponentExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/FileExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/GlobalExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/ItemExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/LoggerExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/ReflectionExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/extension/SchedulerExtension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/KommandExecuter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/annotation/BukkitAsync.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/annotation/Kommand.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/annotation/SubKommand.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/argument/ArgumentProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/argument/ArgumentProviderRegistry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/argument/ArgumentRegistry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/exception/ArgumentMismatch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/language/Language.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/language/LanguageRegistry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/page/PageElement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/page/PageHelper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/kommand/page/PageType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/plugin/BukkitPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/raming/ygdlib/registry/ClassRegistry.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2h84avQADrIkfdrPLwbpJyR32wM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/raaaaming/IdeaProjects/YgdLib/src/main/java/org/raming/YgdLib",
+    "project.structure.last.edited": "전역 라이브러리",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4862069",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\raaaaming\\.gradle"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raaaaming\IdeaProjects\YgdLib\src\main\java\org\raming\YgdLib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raaaaming\IdeaProjects\YgdLib\src\main\java\org\raming\YgdLib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="25d0bab6-9866-49a6-9441-0e1a92624ae6" name="변경" comment="" />
+      <created>1716962438495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716962438495</updated>
+    </task>
+    <servers />
+  </component>
+</project>
