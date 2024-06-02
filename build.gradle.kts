@@ -4,7 +4,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "org.raming"
+group = "org.raming.ygdlib"
 version = "1.0.0"
 
 repositories {
